@@ -2,6 +2,7 @@
 
 This is a deep learning model that to calculate the similarity between a pair of images from MNIST dataset via a Siamese network based on CNN and reservoir computing. 
 The code is based on Python 3.8.8 and Pytorch 1.9.1
+This project will not be updated anymore.
 
 ## Train
 
