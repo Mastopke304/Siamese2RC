@@ -1,5 +1,8 @@
 # README
 
+This is a deep learning model that to calculate the similarity between a pair of images from MNIST dataset via a Siamese network based on CNN and reservoir computing. 
+The code is based on Python 3.8.8 and Pytorch 1.9.1
+
 ## Train
 
 To run the training process, using following code:
@@ -78,5 +81,8 @@ Parameters:
 
 ## Note
 
-It's now 15 December and I spent a little time before I wrote this README to implement the program to run on the GPU, but the CPU and GPU had different results. I didn't fix it due to time, so I didn't add it to the main program. You can try it in Jupyter Notebook.
+I'm a beginner of deep learning and python, this project is for practice. I spent a little time before I wrote this README to make the program run on the GPU, but the CPU and GPU had different results. I didn't fix it due to time, so I didn't add it to the main program. You can try it in Jupyter Notebook.
 
+## Experiment Result
+
+The experiment result is in the folder called "result".
